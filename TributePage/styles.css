@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    background: #eee;
+    padding: 20px;
+    margin: 30px 8px;
+}
+
+#img-div {
+    background: white;
+    padding:10px;
+}
+
+img {
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    max-width: 500px;
+    margin: 0 auto;
+    line-height: 1.7;
+}
